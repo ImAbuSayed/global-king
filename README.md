@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/global-king/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Global King](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/global-king/) |
+| **Get License** | [Official Music Licensing for Global King](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/global-king/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Naina cho tere milda ae new life
+> Kaaliyan raatan ch disdi ae bright light
+> Sari umar karda haan tera wait
+> Rabb ton likhaya main banake my fate
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
