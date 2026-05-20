@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/global-king/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Global King](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/global-king/) |
+| **Get License** | [Get a Licensing Quote for Global King](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/global-king/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `413680beed7e789228ba6409f4bb15bd85a1a8a56732e675e2ca70c8752958c5` |
 | **Timestamp** | May 20, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Global King
+
+This log tracks the cryptographic history and versioning for the song **Global King** (global-king).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-20T23:08:41.521382 | `v1` | `413680beed7e789228ba6409f4bb15bd85a1a8a56732e675e2ca70c8752958c5` | `ca3d1581c8018868a97bc995dd3e72c1c1c3da1a16f415a7bb5cdb2ba0e07d06` | `2026-05-20_global-king-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
